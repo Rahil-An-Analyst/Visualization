@@ -1,14 +1,10 @@
-## Project Name: **Mineral Production Analysis in U.S. States (2022)**
-
---
-
 ## **Interactive Data Visualization of U.S. Mineral Production (2022)**
 
 --
 
 ## Report  
 Explore the interactive dashboard here -  
-[https://rpubs.com/rahil1998/1215977](https://rpubs.com/rahil1998/1215977)
+https://rpubs.com/rahil1998/1219434
 
 --
 
@@ -82,9 +78,8 @@ Key insights from the improved visual include:
 
 ## Files  
 - `README.md`: This file.
-- `interactive_visualization.Rmd`: The RMarkdown file used to create the interactive dashboard.
-- `mineral_data.csv`: The dataset containing U.S. states' mineral production values and top minerals.
-- `mineral_production_analysis.html`: The compiled HTML file for the interactive visualization.
+- `Visualization - Project 1.Rmd`: The RMarkdown file used to create the interactive dashboard.
+- `Visualization---Project-1.html`: The compiled HTML file for the interactive visualization.
 
 --
 
