@@ -5,7 +5,7 @@ Explore the interactive dashboard here -
 https://rpubs.com/rahil1998/1219434
 
 ## Overview  
-This project aims to improve the clarity and effectiveness of the original Visual Capitalist (2023) chart, which highlighted U.S. states that contributed most to America's mineral production value in 2022. The goal is to address the visual issues, such as difficulty ranking states, cluttered representation of Eastern states, poor color scheme, and limited interactivity, and enhance the user experience through a dynamic, interactive dashboard.
+This project aims to improve the clarity and effectiveness of the original Visual Capitalist (2023) chart, which highlighted U.S. states that contributed most to America's mineral production value in 2022. The goal is to address the visual issues, such as difficulty ranking states, cluttered representation of Eastern states, poor color scheme, and limited interactivity.
 
 ## Data Description  
 - **Data Source**: USGS (U.S. Geological Survey) (2023). MINERAL COMMODITY SUMMARIES 2023, USGS Publications Repository Website, accessed 27 April 2023. https://pubs.usgs.gov/periodicals/mcs2023/mcs2023.pdf, pages 10-11, Table 3.—Value of Non-fuel Mineral Production in the United States and Principal Non-fuel Mineral Commodities Produced in 2022
