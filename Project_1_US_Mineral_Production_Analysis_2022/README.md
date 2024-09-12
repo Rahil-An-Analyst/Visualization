@@ -31,11 +31,7 @@ The original static visual limited exploration of deeper insights.
 - **Solution**: An interactive dashboard was implemented to allow users to explore additional information dynamically. Users can now see detailed comparisons, trends, and percentage contributions.
 
 ## Data Description  
-- **Data Source**: Mineral production data from Visual Capitalist (2023).
-- **Columns Used**:
-  - **State**: The U.S. state name.
-  - **Production Value (in billions)**: Mineral production value for each state.
-  - **Top Minerals**: Leading minerals produced in each state (gold, silver, copper, lithium, etc.).
+- **Data Source**: USGS (U.S. Geological Survey) (2023). MINERAL COMMODITY SUMMARIES 2023, USGS Publications Repository Website, accessed 27 April 2023. https://pubs.usgs.gov/periodicals/mcs2023/mcs2023.pdf, pages 10-11, Table 3.—Value of Non-fuel Mineral Production in the United States and Principal Non-fuel Mineral Commodities Produced in 2022
 
 ## Methodology  
 - **Data Visualization**: Using `echarts4r`, the project developed a map-based visual coupled with a ranked bar chart for clear comparison. 
