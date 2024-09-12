@@ -46,7 +46,7 @@ As mentioned in the top right corner of the Visual Capitalist (2023) visual, the
   * The original visual lacks interactivity, making it harder to explore deeper insights beyond the static data.
   * **Solution:** Implement an interactive dashboard to allow users to explore additional information dynamically, such as various mineral trends, detailed comparisons, and percentage contributions.
 
-**Have a look at the detailed dashboard here** - https://rpubs.com/rahil1998/1215977
+**Have a look at the detailed dashboard here** - https://rpubs.com/rahil1998/1219448
 
 **Reference to original visual**
 
@@ -158,7 +158,7 @@ p <- girafe(ggobj = figure2,
 
 The following plot fixes the main issues in the original. Please hover over the bars of bar chart or states on US map to view tooltip.
 
-Furthermore, **have a look at the detailed dashboard here** - https://rpubs.com/rahil1998/1215977
+Furthermore, **have a look at the detailed dashboard here** - https://rpubs.com/rahil1998/1219448
 
 ```{r fig.align="center", echo = FALSE}
 p
