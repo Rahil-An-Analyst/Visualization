@@ -40,7 +40,6 @@ The original static visual limited exploration of deeper insights.
 ## Methodology  
 - **Data Visualization**: Using `echarts4r`, the project developed a map-based visual coupled with a ranked bar chart for clear comparison. 
 - **Tooltip Integration**: Tooltips were integrated to provide users with mineral production values, percentage contributions, and state rankings interactively.
-- **Color Scheme**: A new gradient was applied to better distinguish between different production levels across the states.
 
 ## Results  
 Key insights from the improved visual include:
