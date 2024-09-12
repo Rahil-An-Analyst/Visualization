@@ -1,4 +1,4 @@
-## **Interactive Data Visualization of U.S. Mineral Production (2022)**
+## **Visual Makeover of U.S. Mineral Production (2022) Visual**
 
 ## Dashboard  
 Explore the interactive dashboard here -  
