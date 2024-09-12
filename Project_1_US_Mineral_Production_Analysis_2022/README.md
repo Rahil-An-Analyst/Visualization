@@ -1,34 +1,11 @@
 ## **Interactive Data Visualization of U.S. Mineral Production (2022)**
 
-## Report  
+## Dashboard  
 Explore the interactive dashboard here -  
 https://rpubs.com/rahil1998/1219434
 
 ## Overview  
 This project aims to improve the clarity and effectiveness of the original Visual Capitalist (2023) chart, which highlighted U.S. states that contributed most to America's mineral production value in 2022. The goal is to address the visual issues, such as difficulty ranking states, cluttered representation of Eastern states, poor color scheme, and limited interactivity, and enhance the user experience through a dynamic, interactive dashboard.
-
-## Objectives  
-- Improve the ranking of states by mineral production value using a ranked bar chart alongside a map.
-- Provide a clean and flat U.S. map to reduce clutter and distortion, especially in Eastern states.
-- Implement a more intuitive color gradient for easier rank differentiation and readability.
-- Enhance user interactivity by allowing exploration of detailed mineral data, trends, and percentage contributions through tooltips.
-
-## Visual Issues Addressed  
-### 1. Difficulty Ranking States:  
-The original visual lacked clear ranking of mineral production values.
-- **Solution**: Added a ranked bar chart alongside the map to allow users to quickly identify top and bottom performers. Mineral production values are also displayed interactively in the tooltip.
-
-### 2. Cluttered Eastern States:  
-The original curved map distorted the Eastern U.S. states, causing difficulty in reading values and ranks.
-- **Solution**: Replaced the curved map with a flat map to reduce clutter. Tooltips further enhance the readability of each state's mineral production value.
-
-### 3. Poor Color Scheme:  
-The color scheme of the "Top 5 States Percentage of Total" visual was hard to interpret, making it difficult to differentiate between state ranks.
-- **Solution**: A better color gradient was applied to improve the distinction between ranks. The exact percentage contribution is now included in the tooltip.
-
-### 4. Limited Interactivity:  
-The original static visual limited exploration of deeper insights.
-- **Solution**: An interactive dashboard was implemented to allow users to explore additional information dynamically. Users can now see detailed comparisons, trends, and percentage contributions.
 
 ## Data Description  
 - **Data Source**: USGS (U.S. Geological Survey) (2023). MINERAL COMMODITY SUMMARIES 2023, USGS Publications Repository Website, accessed 27 April 2023. https://pubs.usgs.gov/periodicals/mcs2023/mcs2023.pdf, pages 10-11, Table 3.—Value of Non-fuel Mineral Production in the United States and Principal Non-fuel Mineral Commodities Produced in 2022
