@@ -30,7 +30,8 @@ USGS (U.S. Geological Survey) (2019). *MINERAL COMMODITY SUMMARIES 2019*, USGS P
 - `README.md`: This file.
 - `Visualization - Project 2.Rmd`: The RMarkdown file used to create the interactive dashboard.
 - `Visualization-Project-2.html`: The compiled HTML file for the interactive visualization.
-
+- `Commodity.csv`, `widetolong.csv`: Datasets used for visualization
+- 
 ## License  
 This project is licensed under the MIT License.
 
